@@ -1,4 +1,4 @@
-# Example usage for the node-Trovebox client
+# node-Trovebox client Example app
 
 This is an example of how you can use my trovebox node.js client
 https://github.com/endast/node-Trovebox
