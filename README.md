@@ -1,17 +1,19 @@
 # Example usage for the node-Trovebox client
 
-node-Trovebox is a node.js client library for Trovebox...
+This is an example of how you can use my trovebox node.js client
+https://github.com/endast/node-Trovebox
 
-## Installation
+It's very basic, but should work as a starting point for people who want to play with trovebox 
+and node but don't know where to start.
 
-    npm install trovebox 
 
 ## Usage
-    Download the files:
+    Download the and unzip files:
+    https://github.com/endast/node-trovebox-example/archive/master.zip
 
-    Install requierments
+    Install requirements
 
-    cd trovebox-test && npm install
+    cd node-trovebox-example-master && npm install
 
     Edit the oauth/host parameters in routes/index.js:
     // configure oauth
@@ -26,6 +28,8 @@ node-Trovebox is a node.js client library for Trovebox...
     node app.js
 
     surf to http://localhost:3000
+
+    profit
 
 ## Versions
 
