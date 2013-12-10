@@ -34,3 +34,7 @@ and node but don't know where to start.
 ## Versions
 
 0.0.1 - First version
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/endast/node-trovebox-example/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
