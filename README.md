@@ -11,11 +11,11 @@ and node but don't know where to start.
     Download the and unzip files:
     https://github.com/endast/node-trovebox-example/archive/master.zip
 
-    Install requirements
+    1. Install requirements
 
     cd node-trovebox-example-master && npm install
 
-    Edit the oauth/host parameters in routes/index.js:
+    2. Edit the oauth/host parameters in routes/index.js:
     // configure oauth
     var serveropts = {
         host: "http://photo.example.com",
@@ -25,11 +25,11 @@ and node but don't know where to start.
         token_secret: "token_secret"
     }
 
-    node app.js
+    3. node app.js
 
-    surf to http://localhost:3000
+    4. surf to http://localhost:3000
 
-    profit
+    5. profit
 
 ## Versions
 
